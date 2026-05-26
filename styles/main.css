@@ -1,4 +1,5 @@
 .outlying-container{
   display:grid;
    grid-template-columns: auto auto;
+  grid-template-rows: 0.5em;
 }
