@@ -1,7 +1,7 @@
 .outlying-container{
   display:grid;
    grid-template-columns: auto auto;
-  grid-template-rows: 290px;
+  grid-template-rows: 350px;
 }
 
 .card-image{
